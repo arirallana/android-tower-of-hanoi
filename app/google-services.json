@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "891187898073",
+    "firebase_url": "https://semester-project-arir-default-rtdb.firebaseio.com",
+    "project_id": "semester-project-arir",
+    "storage_bucket": "semester-project-arir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891187898073:android:98b5a638638ae67dcb00c8",
+        "android_client_info": {
+          "package_name": "com.example.semesterprojectarir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891187898073-j1vu40obtv0ne8e4k6e3cioq508bt4ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYWaghBOye6N_7q8RWYB4hPrwIZmXzDfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891187898073-j1vu40obtv0ne8e4k6e3cioq508bt4ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
